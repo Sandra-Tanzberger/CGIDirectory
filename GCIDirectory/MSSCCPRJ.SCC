@@ -1,0 +1,9 @@
+SCC = This is a source code control file
+
+[GCIDirectory.csproj]
+SCC_Aux_Path=?PVCS Version Manager?P:\pvcs\vm\common\vmdevint?
+SCC_Project_Name=/Common/GCIDirectory?PVCS Version Manager?P:\pvcs\vm\common\vmdevint??
+
+[GCIDirectory.sln]
+SCC_Aux_Path=?PVCS Version Manager?P:\pvcs\vm\common\vmdevint?
+SCC_Project_Name=/Common/GCIDirectory?PVCS Version Manager?P:\pvcs\vm\common\vmdevint??
